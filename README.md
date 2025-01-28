@@ -40,6 +40,10 @@ DB_NAME
 # Webz.io API Configuration
 WEBZ_IO_API_KEY
 WEBZ_NEWS_URL='https://api.webz.io'
+
+# Pg admin configuration
+PGADMIN_DEFAULT_EMAIL
+PGADMIN_DEFAULT_PASSWORD
 ```
 
 ---
